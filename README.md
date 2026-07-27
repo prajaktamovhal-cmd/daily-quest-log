@@ -8,4 +8,6 @@
 * \[ ] Running 5KM
 * \[ ] Reading Book 50 pages
 * \[ ] Eating one fruit
+* \[ ] Learn one new idom
+* \[ ] Learn one new Deutsch word
 
